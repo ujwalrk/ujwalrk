@@ -4,15 +4,15 @@ Hey there! I'm a versatile individual with a wide range of interests and skills.
 
 ## Creative Endeavors
 - 🎤 Singing and rap
-- 🎸 Guitar and ukulele strumming
-- 💃 Dancing enthusiast
+- 🎸 Guitar and ukulele
 - ✏️ Sketching and digital art
 - 📚 Comic creation and scriptwriting
 - 🎤 Beatboxing
 
 ## Language Skills
-- 🗣️ Fluent in English, Korean, and Japanese
-- 🌍 Multilingual explorer
+- 🗣️ Fluent in English
+- 🎤 Conversational Kannada, Hindi and Telugu
+- 🌍 Multilingual explorer (Learning Korean, and Japanese)
 
 ## Technical Expertise
 - 💻 Graphic Design
@@ -24,8 +24,8 @@ Hey there! I'm a versatile individual with a wide range of interests and skills.
 
 ## Community Involvement
 - 🔍 Active member of Q Quotient BNMIT, Siggraph BNMIT, and TEDx BNMIT
-- 🌟 Developed a keen design sense and meticulous attention to detail
 - 🌐 Role as an IEEE CAS Web Developer showcased my ability to create impactful web solutions through precision and innovation
+- - 🌟 Developed a keen design sense and meticulous attention to detail
 
 ## Passion-Driven
 - 🔥 Fueled by a passion for design and technology
