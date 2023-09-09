@@ -19,8 +19,8 @@ Hey there! I'm a versatile individual with a wide range of interests and skills.
 - 🌐 Web Development
 - 📊 Data Analysis
 - 🎓 Bachelor of Engineering in Electronics and Communication
-- 🖌️ Proficient in Figma, Adobe Creative Suite (Photoshop, Premiere Pro, Illustrator)
-- 💾 HTML, JavaScript, CSS, SQL (BigQuery), Tableau, R
+- 🖌️ Experience with Figma, Adobe Creative Suite (Photoshop, Premiere Pro, Illustrator), Blender
+- 💾 HTML, JavaScript, CSS, SQL (BigQuery), Tableau, R, Automation 360
 
 ## Community Involvement
 - 🔍 Active member of Q Quotient BNMIT, Siggraph BNMIT, and TEDx BNMIT
